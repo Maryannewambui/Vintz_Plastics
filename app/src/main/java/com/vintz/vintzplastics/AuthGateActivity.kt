@@ -43,7 +43,7 @@ class AuthGateActivity : AppCompatActivity() {
         if (Firebase.auth.currentUser == null) {
             val loginIntent = AuthUI.getInstance()
                 .createSignInIntentBuilder()
-                .setLogo(R.drawable.ic_launcher_foreground)
+                .setLogo(R.drawable.logo)
                 .setTheme(R.style.Theme_VintzPlastics)
                 .setAvailableProviders(
                     providers
