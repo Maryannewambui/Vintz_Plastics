@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402663641777",
+    "project_id": "vintz-plastics",
+    "storage_bucket": "vintz-plastics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402663641777:android:a9be1e2d705973c1454890",
+        "android_client_info": {
+          "package_name": "com.vintz.vintzplastics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402663641777-up0ic09vdptek2lltqr8q1rkuaoei8mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXQAjMHujiudz0RFi3iaEoPfNg7-nRxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402663641777-up0ic09vdptek2lltqr8q1rkuaoei8mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Vint Plastics"
-include ':app'
+rootProject.name = "Vintz Plastics"
+include(":app")
