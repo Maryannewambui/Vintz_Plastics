@@ -12,7 +12,7 @@ android {
         applicationId = "com.vintz.vintzplastics"
         minSdk = 24
         targetSdk = 33
-        compileSdkPreview = "UpsideDownCake"
+        //compileSdkPreview = "UpsideDownCake"
         versionCode = 1
         versionName = "1.0"
 
@@ -51,10 +51,10 @@ dependencies {
     implementation("com.google.firebase:firebase-auth-ktx:21.1.0")
 
     //SplashScreen
-    implementation("androidx.core:core-splashscreen:1.1.0-alpha01")
+    implementation("androidx.core:core-splashscreen:1.0.0-beta02")
 
     //Auth UI
-    implementation("com.firebaseui:firebase-ui-auth:7.2.0")
+    implementation("com.firebaseui:firebase-ui-auth:8.0.1")
 
 
     testImplementation("junit:junit:4.13.2")
